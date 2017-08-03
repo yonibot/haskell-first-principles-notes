@@ -10,7 +10,8 @@ Lambda has 3 basic components
 2. Abstraction - a lambda function. Includes a head and a body, takes a single input and outputs a single output. Any computational logic can be written as a lambda abstraction (boolean, numbers, operations, etc.).
 3. Expression - superset of all 3, can include any of them.
 
-lambda expression - `λx.xy`
+## lambda abstraction
+e.g. `λx.xy`
 
 `λx` is the head. `x` is the parameter in the head.
 `xy` is the body. `x` is bound to the x in the parameter in this case. `y` is a free identifier.
