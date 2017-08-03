@@ -1,4 +1,4 @@
-# My Notes on the Haskell Book
+# Notes on the Haskell Book
 
 Notes &amp; exercises from the [Haskell from First Principles](http://haskellbook.com/) book and other resources that I've found handy in helping me understand the material.
 
