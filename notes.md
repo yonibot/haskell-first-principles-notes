@@ -40,7 +40,7 @@ reduces to
 2
 ```
 
-* Combinator = all variables are bound, none are free.
+* Combinator = all variables in the body of a lambda abstraction are bound, none are free.
 
 ```
 (λxy.x) or (λy.yyy)
