@@ -12,17 +12,17 @@ Lambda has 3 basic components
 
 lambda expression - `λx.xy`
 
-λx is the head. x is the parameter in the head.
-xy is the body. x is bound to the x in the parameter in this case. y is a free identifier.
+`λx` is the head. `x` is the parameter in the head.
+`xy` is the body. `x` is bound to the x in the parameter in this case. `y` is a free identifier.
 
-a lambda expression is anonymous - it has no name.
+A lambda expression is anonymous - it has no name.
 
 1. alpha equivalence
 
 substantive equivalence rather than formalistic. When 2 functions will do the same operation on an input, they are substantively equivalent - or alpha equivalent.
 
-λx.xx is ⍺ equivalent to λy.yy.
-λx.x is alpha equivalent to λy.y.
+`λx.xx` is `⍺` equivalent to `λy.yy`.
+`λx.x` is `⍺` equivalent to `λy.y`.
 
 2. beta equivalence / beta reduction
 
